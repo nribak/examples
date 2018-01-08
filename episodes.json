@@ -1,0 +1,134 @@
+{
+  "seasons": [
+    {
+      "_id": "55b255c79251411e140108df",
+      "air_date": "2015-08-28",
+      "episodes": [
+        {
+          "air_date": "2015-08-28",
+          "episode_number": 1,
+          "name": "Descenso",
+          "overview": "Chilean drug chemist Cockroach brings his product to Colombian smuggler Pablo Escobar. DEA agent Steve Murphy joins the war on drugs in Bogota.",
+          "id": 1090983,
+          "production_code": null,
+          "season_number": 1,
+          "still_path": "http://image.tmdb.org/t/p/w342/yjzI0HIW6LCYdoT4XKJJ9Gse8ro.jpg",
+          "vote_average": 7.9,
+          "vote_count": 20
+        },
+        {
+          "air_date": "2015-08-28",
+          "episode_number": 2,
+          "name": "The Sword of Simón Bolivar",
+          "overview": "Communist radical group M-19 makes a move against the narcos, while Murphy gets an education in Colombian law enforcement from his new partner Peña.",
+          "id": 1101902,
+          "production_code": null,
+          "season_number": 1,
+          "still_path": "http://image.tmdb.org/t/p/w342/sjgSYABo4ugRiONcGNPYZeMKOAs.jpg",
+          "vote_average": 7.324,
+          "vote_count": 17
+        },
+        {
+          "air_date": "2015-08-28",
+          "episode_number": 3,
+          "name": "The Men of Always",
+          "overview": "Murphy encounters the depths of government corruption when he and Peña try to derail Escobar's political ambitions by proving he's a narco.",
+          "id": 1101903,
+          "production_code": null,
+          "season_number": 1,
+          "still_path": "http://image.tmdb.org/t/p/w342/qHo5EuiE7XOSIxXO5IAm0TBqN86.jpg",
+          "vote_average": 8.458,
+          "vote_count": 12
+        },
+        {
+          "air_date": "2015-08-28",
+          "episode_number": 4,
+          "name": "The Palace in Flames",
+          "overview": "Despite a new extradition treaty, the U.S. puts more money into fighting communism, creating new challenges for Murphy and Peña in the hunt for Pablo.",
+          "id": 1101904,
+          "production_code": null,
+          "season_number": 1,
+          "still_path": "http://image.tmdb.org/t/p/w342/6iV6dwdvYdEAeDXlgxGE2GN8bXQ.jpg",
+          "vote_average": 8.135999999999999,
+          "vote_count": 11
+        },
+        {
+          "air_date": "2015-08-28",
+          "episode_number": 5,
+          "name": "There Will Be a Future",
+          "overview": "Pablo's extreme methods put the narcos on the brink of war with Carillo and  the government. Peña tries to protect his witness, Elisa.",
+          "id": 1101905,
+          "production_code": null,
+          "season_number": 1,
+          "still_path": "http://image.tmdb.org/t/p/w342/aHfVeCV3XbGsEJMC5JEiNQjjWbS.jpg",
+          "vote_average": 8.888999999999999,
+          "vote_count": 9
+        },
+        {
+          "air_date": "2015-08-28",
+          "episode_number": 6,
+          "name": "Explosivos",
+          "overview": "Peña and Carillo close in on Gacha, while Murphy tries to protect pro-extradition candidate Gaviria from a notorious assassin connected to Pablo.",
+          "id": 1101906,
+          "production_code": null,
+          "season_number": 1,
+          "still_path": "http://image.tmdb.org/t/p/w342/zp9M06o1Q0fF3TswJyW1Gx72OeY.jpg",
+          "vote_average": 9.333,
+          "vote_count": 9
+        },
+        {
+          "air_date": "2015-08-28",
+          "episode_number": 7,
+          "name": "You Will Cry Tears of Blood",
+          "overview": "Pablo goes into hiding as the political tide turns against him, but he finds a way to strike back. Murphy and Peña finally get the CIA to help them.",
+          "id": 1101907,
+          "production_code": null,
+          "season_number": 1,
+          "still_path": "http://image.tmdb.org/t/p/w342/jciaP4kjTPJWGa1VCYFfwjkJt9p.jpg",
+          "vote_average": 8.273,
+          "vote_count": 11
+        },
+        {
+          "air_date": "2015-08-28",
+          "episode_number": 8,
+          "name": "La Gran Mentira",
+          "overview": "A tragic mistake forces the government to change tactics in the fight against Pablo. But Pablo faces bigger threats from inside his empire.",
+          "id": 1101908,
+          "production_code": null,
+          "season_number": 1,
+          "still_path": "http://image.tmdb.org/t/p/w342/3Aet2wEAp3mFe6yKDN0GNwBmEEB.jpg",
+          "vote_average": 8.545,
+          "vote_count": 11
+        },
+        {
+          "air_date": "2015-08-28",
+          "name": "La Catedral",
+          "overview": "The hunt for Pablo seems to be over after he makes a deal with the government, but Murphy and Peña -- and the Cali Cartel -- have other plans.",
+          "id": 1101909,
+          "production_code": null,
+          "season_number": 1,
+          "still_path": "http://image.tmdb.org/t/p/w342/92LZMtfuqiO8CQ26XhjCE74cG8z.jpg",
+          "vote_average": 8.667,
+          "vote_count": 9
+        },
+        {
+          "air_date": "2015-08-28",
+          "episode_number": 10,
+          "name": "Despegue",
+          "overview": "Pablo's activities in prison provoke the government into taking extreme action. Murphy and Peña face a situation of their own.",
+          "id": 1101910,
+          "production_code": null,
+          "season_number": 1,
+          "still_path": "http://image.tmdb.org/t/p/w342/e8G5TXOzZC1QQSZcwm6VVLFZ1e1.jpg",
+          "vote_average": 8.888999999999999,
+          "vote_count": 9
+        }
+      ],
+      "name": "Season 1",
+      "overview": "Season one chronicles the rise of drug lord Pablo Escobar, the ruthless boss of the Medellin Cartel and a known terrorist who was also a congressman, a family man and revered by the poor as a new Robin Hood.",
+      "id": 68934,
+      "poster_path": "http://image.tmdb.org/t/p/w342/9lNSJ7l6Dc7aXVrywBlFxhNqXeF.jpg",
+      "season_number": 1
+    }
+  ]
+}
